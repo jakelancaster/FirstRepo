@@ -6,6 +6,7 @@
     background: rgb(10, 107, 28);
     }
 .title2 {
+    color: white;
     text-align: unset; 
     font-size:Courier; 
     font-size: 30px;
@@ -14,9 +15,18 @@
     font-family: serif; 
     font-size: 20px;
 }
+
 .title2_plus_movement {
-    position: relative;
     left: 100px;
+    text-align: unset; 
     font-size:Courier; 
     font-size: 30px;
+}
+body{
+    background-image: url('Pictures/Rainbow_Sprial.gif');
+    background-size: cover;
+    height: 100vh;
+    width: relative;
+    padding:0;
+    margin:0;
 }
