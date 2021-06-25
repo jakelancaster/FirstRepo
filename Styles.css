@@ -4,7 +4,6 @@
     background-color: honeydew;
     opacity: .5;
     position: absolute;
-    top: 50px;
     z-index: -10000;
 }
 .title {
@@ -42,4 +41,21 @@ body{
     position: absolute; 
     color: rgba(255, 255, 255, 0.075);
 }
-
+.navigation_bar{
+    height: 30px;
+    width: auto;
+    background-color: rgb(67, 208, 243);
+    position: sticky;
+    z-index: -10000;
+}
+.navigation_link{
+    position: sticky;
+    color: mediumspringgreen;
+}
+/* This is to test the scroll fuctionality */
+.test_scroll{
+    position: relative;
+    top: 20000px;
+    color: white;
+    font-size: 50px;
+}
