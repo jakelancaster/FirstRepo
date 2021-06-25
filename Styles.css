@@ -42,20 +42,15 @@ body{
     color: rgba(255, 255, 255, 0.075);
 }
 .navigation_bar{
-    height: 30px;
+    position: sticky;
+    padding: 5px;
+    top: 0px;
     width: auto;
     background-color: rgb(67, 208, 243);
-    position: sticky;
-    z-index: -10000;
+    z-index: auto;
 }
 .navigation_link{
-    position: sticky;
+    font-size: 20px;
+    font: bold;
     color: mediumspringgreen;
-}
-/* This is to test the scroll fuctionality */
-.test_scroll{
-    position: relative;
-    top: 20000px;
-    color: white;
-    font-size: 50px;
 }
