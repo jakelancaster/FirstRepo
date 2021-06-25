@@ -49,7 +49,13 @@ body{
     z-index: -10000;
 }
 .navigation_link{
-    position: relative;
     position: sticky;
     color: mediumspringgreen;
+}
+/* This is to test the scroll fuctionality */
+.test_scroll{
+    position: relative;
+    top: 20000px;
+    color: white;
+    font-size: 50px;
 }
