@@ -4,7 +4,7 @@
     background-color: honeydew;
     opacity: .5;
     position: absolute;
-    top: 30px;
+    top: 50px;
     z-index: -10000;
 }
 .title {
@@ -42,3 +42,4 @@ body{
     position: absolute; 
     color: rgba(255, 255, 255, 0.075);
 }
+
