@@ -4,7 +4,6 @@
     background-color: honeydew;
     opacity: .5;
     position: absolute;
-    top: 50px;
     z-index: -10000;
 }
 .title {
@@ -42,4 +41,16 @@ body{
     position: absolute; 
     color: rgba(255, 255, 255, 0.075);
 }
-
+.navigation_bar{
+    position: sticky;
+    padding: 5px;
+    top: 0px;
+    width: auto;
+    background-color: rgb(67, 208, 243);
+    z-index: auto;
+}
+.navigation_link{
+    font-size: 20px;
+    font: bold;
+    color: mediumspringgreen;
+}
