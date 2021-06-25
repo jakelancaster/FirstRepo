@@ -42,9 +42,14 @@ body{
     color: rgba(255, 255, 255, 0.075);
 }
 .navigation_bar{
-    height: 50px;
+    height: 30px;
     width: auto;
     background-color: rgb(67, 208, 243);
     position: sticky;
     z-index: -10000;
+}
+.navigation_link{
+    position: relative;
+    position: sticky;
+    color: mediumspringgreen;
 }
