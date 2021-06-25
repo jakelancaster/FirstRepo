@@ -54,10 +54,3 @@ body{
     font: bold;
     color: mediumspringgreen;
 }
-/* This is to test the scroll fuctionality */
-.test_scroll{
-    position: absolute;
-    top: 20000px;
-    color: white;
-    font-size: 50px;
-}
