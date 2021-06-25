@@ -1,12 +1,11 @@
 body{
     background-image: url('Pictures/Rick_Roll.gif');
     background-size: cover;
-    height: 100vh;
+    height: 680px;
     padding:0;
     margin:0;
-    z-index: -50;
 }
 .return_link{
-    position: absolute; 
+    position: fixed; 
     color: rgb(0, 0, 0);
 }
