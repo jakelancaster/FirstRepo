@@ -1,0 +1,16 @@
+@media only screen and (max-width: 600px) {
+      .title{
+          font-size: 60px;
+      }  
+}
+.title{
+    text-align: center;
+    font-size: 60px;
+    color: rgb(224, 255, 248);
+    font-weight: bold;
+    background-color: blue;
+    text-justify: auto;
+}
+body{
+    background-image: url(Pictures/Bricks.jpg);
+}
