@@ -10,12 +10,15 @@
     font-weight: bold;
     background: blue;
 }
-.naviagtion_bar{
-    text-align: center;
-    font-size: 60px;
+.navigation_bar{
+    position: sticky;
+    padding: 5px;
+    width: auto;
+    background-color: rgb(0, 0, 0);
+}
+.navigation_links{
+    position: sticky;
     color: white;
-    font-weight: bold;
-    background: blue;
 
 }
 body{
