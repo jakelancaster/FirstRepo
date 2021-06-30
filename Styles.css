@@ -1,0 +1,23 @@
+@media only screen and (max-width: 600px) {
+      .title{
+          font-size: 60px;
+      }  
+}
+.title{
+    text-align: center;
+    font-size: 60px;
+    color: white;
+    font-weight: bold;
+    background: blue;
+}
+.naviagtion_bar{
+    text-align: center;
+    font-size: 60px;
+    color: white;
+    font-weight: bold;
+    background: blue;
+
+}
+body{
+    background-image: url(Pictures/Bricks.jpg);
+}
