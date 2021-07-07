@@ -12,6 +12,7 @@
     background-color: rgb(0, 0, 0);
     display: flex;
     flex-direction: row;
+    top: 5px;
 }
 .navigation_links{
     position: sticky;
@@ -21,6 +22,15 @@
     text-decoration: auto;
     text-align: center;
     margin: auto;
+}
+.header{
+    font-size: 50px;
+    color: white;
+    padding: 15px;
+}
+.header_body{
+    font-size: 20px;
+    word-wrap: break-word;
 }
 body{
     background-image: url(Pictures/Bricks.jpg);
